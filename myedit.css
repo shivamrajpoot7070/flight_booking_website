@@ -1,0 +1,107 @@
+.air{
+    color:rgb(68, 255, 0);
+    transition: all 0.4s ease-in-out
+    
+}
+
+.air:hover{
+    color:red;
+    transform: scale(1.04);
+}
+
+.qatar{
+    transition: all 0.4s ease-in-out
+
+}
+
+.qatar:hover{
+    color:red;
+transform: scale(1.04);
+}
+
+.spice{
+    transition: all 0.4s ease-in-out
+
+}
+
+
+.spice:hover{
+color:red;
+transform: scale(1.04);
+
+}
+
+.fli{
+
+    transition: all 0.4s ease-in-out
+}
+
+.fli:hover{
+    color:rgb(0, 195, 255);
+    transform:rotate(2deg);
+    transform: scale(1.02);
+    background-color: blueviolet;
+}
+
+
+
+.col-md-6{
+    transition: all 0.4s ease-in-out;
+}
+
+.col-md-6:hover{
+    transform: scale(1.04);
+   
+}
+
+.tit{
+
+    transition: all 2s ease;
+    color:red;
+}
+
+.tit:hover{
+    transform: scale(1.4);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#top a{
+    border-radius: 10px solid green;
+    transition: all 0.4s ease-in;
+}
+
+#top a:hover{
+    color:red;
+    background-color: rgb(134, 146, 79);
+    border-radius: 50%;
+    transform: scale(1);
+
+}
+
+.col-md-12 ul li a{
+    height:80px;
+    transition: all 0.4s ease-in;
+}
+
+.col-md-12 ul li a:hover{
+    background-color: rgb(207, 149, 235);
+    border-radius: 14px;
+}
+
+.form-control{
+    color:blue;
+}
+
+.page-direction-button a{ 
+    color:brown
+}
+
+.cityy{
+     color:red;
+}
+
+
+
+
+
+
